@@ -1,0 +1,29 @@
+module DroomSearch
+  module Grammars
+    grammar BasicAst
+      rule search
+        (term space? search space?) <DroomSearch::NodeExtensions::BasicAst::Search> / term
+      end
+
+      rule term
+        space? (value / exact_value / except_value) space? <DroomSearch::NodeExtensions::BasicAst::Term>
+      end
+
+      rule value
+        [a-zA-Z0-9_] [a-zA-Z0-9_]* <DroomSearch::NodeExtensions::BasicAst::Value>
+      end
+
+      rule exact_value
+        [\"] ( '\"' / !'"' . )* [\"] <DroomSearch::NodeExtensions::BasicAst::ExactValue>
+      end
+
+      rule except_value
+        [\-] (value / exact_value) <DroomSearch::NodeExtensions::BasicAst::ExceptValue>
+      end
+
+      rule space
+        [\s]+
+      end
+    end
+  end
+end

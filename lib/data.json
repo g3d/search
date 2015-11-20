@@ -1,0 +1,487 @@
+[
+  {
+    "name": "A+",
+    "type": "Array",
+    "designed_by": "Arthur Whitney"
+  },
+  {
+    "name": "ActionScript",
+    "type": "Compiled, Curly-bracket, Procedural, Reflective, Scripting, Object-oriented class-based",
+    "designed_by": "Gary Grossman"
+  },
+  {
+    "name": "Ada",
+    "type": "Compiled, Imperative, Procedural, Object-oriented class-based",
+    "designed_by": "Tucker Taft, Jean Ichbiah"
+  },
+  {
+    "name": "Aldor",
+    "type": "Iterative",
+    "designed_by": "Richard Dimick Jenks, Barry Trager, Stephen Watt, James Davenport, Robert Sutor, Scott Morrison"
+  },
+  {
+    "name": "Alef",
+    "type": "Curly-bracket",
+    "designed_by": "Phil Winterbottom"
+  },
+  {
+    "name": "ALGOL",
+    "type": "Compiled, Imperative, Procedural",
+    "designed_by": "Bauer, Bottenbruch, Rutishauser, Samelson, Backus, Katz, Perlis, Wegstein, Naur, Vauquois, van Wijngaarden, Woodger, Green, McCarthy"
+  },
+  {
+    "name": "Ant",
+    "type": "Interpreted",
+    "designed_by": "Apache Software Foundation"
+  },
+  {
+    "name": "APL",
+    "type": "Array, Interactive mode, Interpreted",
+    "designed_by": "Kenneth E. Iverson"
+  },
+  {
+    "name": "AppleScript",
+    "type": "Scripting",
+    "designed_by": "Apple Inc."
+  },
+  {
+    "name": "AWK",
+    "type": "Curly-bracket, Scripting",
+    "designed_by": "Alfred Aho, Peter Weinberger, Brian Kernighan"
+  },
+  {
+    "name": "B",
+    "type": "Curly-bracket",
+    "designed_by": "Ken Thompson"
+  },
+  {
+    "name": "bash",
+    "type": "Command line interface, Scripting",
+    "designed_by": "Brian Fox"
+  },
+  {
+    "name": "BASIC",
+    "type": "Imperative, Compiled, Procedural, Interactive mode, Interpreted",
+    "designed_by": "John George Kemeny, Thomas Eugene Kurtz"
+  },
+  {
+    "name": "BCPL",
+    "type": "Compiled, Curly-bracket, Procedural",
+    "designed_by": "Martin Richards"
+  },
+  {
+    "name": "Blue",
+    "type": "Imperative, Object-oriented class-based, Procedural",
+    "designed_by": "University of Sydney"
+  },
+  {
+    "name": "C",
+    "type": "Compiled, Curly-bracket, Imperative, Procedural",
+    "designed_by": "Dennis Ritchie"
+  },
+  {
+    "name": "C#",
+    "type": "Compiled, Curly-bracket, Iterative, Object-oriented class-based, Reflective, Procedural",
+    "designed_by": "Microsoft"
+  },
+  {
+    "name": "C++",
+    "type": "Compiled, Curly-bracket, Imperative, Metaprogramming, Object-oriented class-based, Procedural",
+    "designed_by": "Bjarne Stroustrup"
+  },
+  {
+    "name": "Candle",
+    "type": "Curly-bracket, Scripting",
+    "designed_by": "Henry Luo"
+  },
+  {
+    "name": "Chapel",
+    "type": "Array",
+    "designed_by": "David Callahan, Hans Zima, Brad Chamberlain, John Plevyak"
+  },
+  {
+    "name": "ChucK",
+    "type": "Curly-bracket, Object-oriented class-based, Reflective, Procedural",
+    "designed_by": "Ge Wang"
+  },
+  {
+    "name": "Cilk",
+    "type": "Curly-bracket",
+    "designed_by": "MIT"
+  },
+  {
+    "name": "Clojure",
+    "type": "Interactive mode, Reflective",
+    "designed_by": "Rich Hickey"
+  },
+  {
+    "name": "COBOL",
+    "type": "Compiled, Imperative, Procedural",
+    "designed_by": "Grace Hopper, William Selden, Gertrude Tierney, Howard Bromberg, Howard Discount, Vernon Reeves, Jean E. Sammet"
+  },
+  {
+    "name": "Cobra",
+    "type": "Compiled, Iterative, Object-oriented class-based, Procedural, Reflective",
+    "designed_by": "Charles Esterbrook"
+  },
+  {
+    "name": "ColdFusion",
+    "type": "Object-oriented class-based, Procedural, Scripting",
+    "designed_by": "Adobe Systems"
+  },
+  {
+    "name": "Common Lisp",
+    "type": "Compiled, Interactive mode, Object-oriented class-based, Reflective",
+    "designed_by": "Scott Fahlman, Richard P. Gabriel, Dave Moon, Guy Steele, Dan Weinreb"
+  },
+  {
+    "name": "csh",
+    "type": "Command line interface",
+    "designed_by": "Bill Joy"
+  },
+  {
+    "name": "Curl",
+    "type": "Compiled, Metaprogramming, Object-oriented class-based, Procedural, Reflective",
+    "designed_by": "Steve Ward"
+  },
+  {
+    "name": "Cyclone",
+    "type": "Curly-bracket",
+    "designed_by": "AT&T Labs"
+  },
+  {
+    "name": "D",
+    "type": "Compiled, Curly-bracket, Imperative, Metaprogramming, Object-oriented class-based, Procedural",
+    "designed_by": "Walter Bright, Andrei Alexandrescu"
+  },
+  {
+    "name": "DASL",
+    "type": "Object-oriented class-based, Curly-bracket, Procedural",
+    "designed_by": "Sun Microsystems Laboratories"
+  },
+  {
+    "name": "Delphi",
+    "type": "Compiled, Object-oriented class-based, Reflective",
+    "designed_by": "Apple, Niklaus Wirth, Anders Hejlsberg"
+  },
+  {
+    "name": "E",
+    "type": "Curly-bracket, Object-oriented class-based",
+    "designed_by": "Mark S. Miller"
+  },
+  {
+    "name": "ECMAScript",
+    "type": "Curly-bracket, Procedural, Reflective, Scripting",
+    "designed_by": "Brendan Eich, Ecma International"
+  },
+  {
+    "name": "Eiffel",
+    "type": "Compiled, Object-oriented class-based, Procedural, Reflective",
+    "designed_by": "Bertrand Meyer"
+  },
+  {
+    "name": "Erlang",
+    "type": "Compiled, Interactive mode",
+    "designed_by": "Joe Armstrong"
+  },
+  {
+    "name": "Expect",
+    "type": "Command line interface",
+    "designed_by": "Don Libes"
+  },
+  {
+    "name": "F#",
+    "type": "Interactive mode",
+    "designed_by": "Microsoft Research, Don Syme"
+  },
+  {
+    "name": "Factor",
+    "type": "Compiled",
+    "designed_by": "Slava Pestov"
+  },
+  {
+    "name": "Fancy",
+    "type": "Compiled, Interactive mode, Metaprogramming, Object-oriented class-based, Scripting",
+    "designed_by": "Christopher Bertels"
+  },
+  {
+    "name": "Forth",
+    "type": "Compiled, Interactive mode, Metaprogramming, Reflective",
+    "designed_by": "Charles H. Moore"
+  },
+  {
+    "name": "Fortran",
+    "type": "Array, Compiled, Imperative, Procedural",
+    "designed_by": "John Backus"
+  },
+  {
+    "name": "Go",
+    "type": "Compiled, Imperative, Procedural",
+    "designed_by": "Robert Griesemer, Rob Pike, Ken Thompson"
+  },
+  {
+    "name": "Gosu",
+    "type": "Compiled",
+    "designed_by": "Guidewire Software"
+  },
+  {
+    "name": "Groovy",
+    "type": "Compiled, Curly-bracket, Interpreted, Metaprogramming, Object-oriented class-based, Procedural, Reflective, Scripting",
+    "designed_by": "James Strachan"
+  },
+  {
+    "name": "Hamilton C shell",
+    "type": "Command line interface",
+    "designed_by": "Nicole Hamilton"
+  },
+  {
+    "name": "Harbour",
+    "type": "Compiled, Object-oriented class-based, Procedural, Reflective",
+    "designed_by": "Antonio Linares"
+  },
+  {
+    "name": "Haskell",
+    "type": "Compiled, Functional, Metaprogramming, Interpreted, Interactive mode",
+    "designed_by": "Simon Peyton Jones, Lennart Augustsson, Dave Barton, Brian Boutel, Warren Burton, Joseph Fasel, Kevin Hammond, Ralf Hinze, Paul Hudak, John Hughes, Thomas Johnsson, Mark Jones, John Launchbury, Erik Meijer, John Peterson, Alastair Reid, Colin Runciman, Philip Wadler"
+  },
+  {
+    "name": "IDL",
+    "type": "Array, Interactive mode",
+    "designed_by": "David Stern"
+  },
+  {
+    "name": "J",
+    "type": "Array, Interactive mode, Interpreted, Object-oriented class-based",
+    "designed_by": "Ken Iverson, Roger Hui"
+  },
+  {
+    "name": "Java",
+    "type": "Compiled, Curly-bracket, Imperative, Object-oriented class-based, Procedural, Reflective",
+    "designed_by": "James Gosling, Sun Microsystems"
+  },
+  {
+    "name": "JavaScript",
+    "type": "Curly-bracket, Interpreted, Reflective, Procedural, Scripting, Interactive mode",
+    "designed_by": "Brendan Eich"
+  },
+  {
+    "name": "JOVIAL",
+    "type": "Compiled, Procedural",
+    "designed_by": "System Development Corporation"
+  },
+  {
+    "name": "JScript",
+    "type": "Curly-bracket, Procedural, Reflective, Scripting",
+    "designed_by": "Microsoft"
+  },
+  {
+    "name": "Julia",
+    "type": "Array, Imperative, Interactive mode, Interpreted, Metaprogramming, Object-oriented class-based, Reflective, Scripting",
+    "designed_by": "Jeff Bezanson, Stefan Karpinski, Viral B. Shah, Alan Edelman"
+  },
+  {
+    "name": "K",
+    "type": "Array",
+    "designed_by": "Arthur Whitney"
+  },
+  {
+    "name": "ksh",
+    "type": "Command line interface",
+    "designed_by": "David Korn"
+  },
+  {
+    "name": "Lasso",
+    "type": "Procedural, Scripting, Object-oriented class-based",
+    "designed_by": "Kyle Jessup"
+  },
+  {
+    "name": "Limbo",
+    "type": "Curly-bracket",
+    "designed_by": "Sean Dorward, Phil Winterbottom, Rob Pike"
+  },
+  {
+    "name": "Lisp",
+    "type": "Metaprogramming, Reflective",
+    "designed_by": "John McCarthy"
+  },
+  {
+    "name": "Lua",
+    "type": "Imperative, Interactive mode, Interpreted, Iterative, Metaprogramming, Object-oriented class-based, Reflective, Scripting",
+    "designed_by": "Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo"
+  },
+  {
+    "name": "MATLAB",
+    "type": "Array, Imperative, Interactive mode, Procedural",
+    "designed_by": "MathWorks"
+  },
+  {
+    "name": "Mercury",
+    "type": "Compiled, Functional",
+    "designed_by": "Zoltan Somogyi"
+  },
+  {
+    "name": "ML",
+    "type": "Compiled, Interactive mode",
+    "designed_by": "Robin Milner"
+  },
+  {
+    "name": "Nemerle",
+    "type": "Compiled, Curly-bracket, Metaprogramming, Object-oriented class-based, Procedural",
+    "designed_by": "Kamil Skalski, Michal Moskal, Prof. Leszek Pacholski, Pawel Olszta"
+  },
+  {
+    "name": "Obix",
+    "type": "Compiled, Interactive mode, Object-oriented class-based, Procedural, Reflective, Scripting",
+    "designed_by": "Christian Neumanns"
+  },
+  {
+    "name": "Objective-C",
+    "type": "Compiled, Reflective, Object-oriented class-based",
+    "designed_by": "Brad Cox, Tom Love"
+  },
+  {
+    "name": "Pascal",
+    "type": "Compiled, Imperative, Interpreted",
+    "designed_by": "Niklaus Wirth"
+  },
+  {
+    "name": "Perl",
+    "type": "Curly-bracket, Imperative, Interactive mode, Interpreted, Metaprogramming, Procedural, Reflective, Scripting, Object-oriented class-based",
+    "designed_by": "Larry Wall"
+  },
+  {
+    "name": "PHP",
+    "type": "Curly-bracket, Imperative, Interpreted, Object-oriented class-based, Reflective, Scripting",
+    "designed_by": "Rasmus Lerdorf"
+  },
+  {
+    "name": "Python",
+    "type": "Imperative, Interactive mode, Interpreted, Iterative, Metaprogramming, Procedural, Reflective, Scripting, Object-oriented class-based",
+    "designed_by": "Guido van Rossum"
+  },
+  {
+    "name": "R",
+    "type": "Curly-bracket, Interactive mode, Interpreted, Procedural, Scripting",
+    "designed_by": "Ross Ihaka, Robert Gentleman"
+  },
+  {
+    "name": "REXX",
+    "type": "Command line interface, Interactive mode, Interpreted, Scripting",
+    "designed_by": "Mike Cowlishaw"
+  },
+  {
+    "name": "RPG",
+    "type": "Compiled, Procedural",
+    "designed_by": "IBM"
+  },
+  {
+    "name": "Ruby",
+    "type": "Imperative, Interpreted, Metaprogramming, Object-oriented class-based, Reflective, Scripting, Interactive mode",
+    "designed_by": "Yukihiro Matsumoto"
+  },
+  {
+    "name": "Rust",
+    "type": "Compiled, Curly-bracket, Imperative, Metaprogramming, Procedural",
+    "designed_by": "Graydon Hoare"
+  },
+  {
+    "name": "S",
+    "type": "Array",
+    "designed_by": "Rick Becker, Allan Wilks, John Chambers"
+  },
+  {
+    "name": "S-Lang",
+    "type": "Curly-bracket, Interpreted, Procedural, Scripting, Interactive mode",
+    "designed_by": "John E. Davis"
+  },
+  {
+    "name": "Scala",
+    "type": "Curly-bracket, Interactive mode, Object-oriented class-based",
+    "designed_by": "Martin Odersky"
+  },
+  {
+    "name": "Scheme",
+    "type": "Compiled, Interactive mode, Metaprogramming, Reflective",
+    "designed_by": "Guy L. Steele, Gerald Jay Sussman"
+  },
+  {
+    "name": "Smalltalk",
+    "type": "Compiled, Metaprogramming, Scripting, Interactive mode, Object-oriented class-based, Reflective",
+    "designed_by": "Alan Kay, Dan Ingalls, Adele Goldberg"
+  },
+  {
+    "name": "SQL",
+    "type": "Data-oriented, Declarative, Extension",
+    "designed_by": "Donald D. Chamberlin, Raymond F. Boyce"
+  },
+  {
+    "name": "Swift",
+    "type": "Compiled",
+    "designed_by": "Chris Lattner, Apple Inc."
+  },
+  {
+    "name": "Turing",
+    "type": "Compiled",
+    "designed_by": "Ric Holt, James Cordy"
+  },
+  {
+    "name": "TUTOR",
+    "type": "Authoring",
+    "designed_by": "Paul Tenczar, Richard Blomme"
+  },
+  {
+    "name": "Vala",
+    "type": "Compiled",
+    "designed_by": "JÃ¼rg Billeter, Raffaele Sandrini"
+  },
+  {
+    "name": "VBScript",
+    "type": "Interpreted, Procedural, Scripting, Object-oriented class-based",
+    "designed_by": "Microsoft"
+  },
+  {
+    "name": "Visual Basic",
+    "type": "Compiled, Procedural",
+    "designed_by": "Microsoft"
+  },
+  {
+    "name": "Visual FoxPro",
+    "type": "Compiled, Data-oriented, Object-oriented class-based, Procedural",
+    "designed_by": "Microsoft"
+  },
+  {
+    "name": "Windows PowerShell",
+    "type": "Command line interface, Curly-bracket, Interactive mode, Interpreted, Scripting",
+    "designed_by": "Microsoft"
+  },
+  {
+    "name": "X#",
+    "type": "Compiled, Procedural",
+    "designed_by": "COSMOS"
+  },
+  {
+    "name": "X++",
+    "type": "Compiled, Object-oriented class-based, Procedural, Reflective",
+    "designed_by": "Microsoft"
+  },
+  {
+    "name": "X10",
+    "type": "Array, Curly-bracket, Object-oriented class-based, Reflective",
+    "designed_by": "Kemal Ebcioglu, Vijay Saraswat, Vivek Sarkar"
+  },
+  {
+    "name": "XL",
+    "type": "Compiled, Procedural, Reflective, Iterative, Metaprogramming",
+    "designed_by": "Christophe de Dinechin"
+  },
+  {
+    "name": "ZPL",
+    "type": "Array",
+    "designed_by": "Chamberlain"
+  },
+  {
+    "name": "zsh",
+    "type": "Command line interface",
+    "designed_by": "Paul Falstad"
+  }
+]

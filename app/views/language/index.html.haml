@@ -1,0 +1,37 @@
+.small-12.medium-12.grid-content
+
+  %p
+    %p Grammar:
+    %ul
+      %li Use minus (-) to exclude word from search
+      %li Use quotes ("") for exact match
+      %li Exact match work for negative cases
+    %p Examples:
+    %ul
+      %li John -array
+      %li Microsoft -"Scripting"
+      %li scripting compile -"Interactive mode"
+      %li Interpreted "Thomas Eugene"
+      %li object jean
+      %li "Curly-bracket"
+
+= form_tag search_language_index_url do |f|
+  .small-12.medium-12.grid-content
+    %h3 Search
+    %label
+      %span.inline-label
+        =text_field_tag 'search[query]', nil, class: 'js-search-input', placeholder: 'Type your search query here', data: {search_uri: api_v1_language_index_url(format: :json), search_list: '.js-results', search_button: '.js-search-button', api_token: Rails.application.secrets.api_token}
+        %button.button.js-search-button Search
+%hr
+.grid-block.small-up-1.medium-up-3.js-results
+  - if @results.size == 0
+    %h4 No results found
+  - @results.each do |item|
+    .grid-content
+      .dark.card.search-card
+        .card-divider.search-card-divider
+          = item.designed_by
+        .card-section.search-card-section
+          %h4= item.name
+          %p= item.type
+%hr

@@ -1,0 +1,7 @@
+example_id                                                   | status | run_time        |
+------------------------------------------------------------ | ------ | --------------- |
+./spec/controllers/api/v1/language_controller_spec.rb[1:1:1] | passed | 0.03461 seconds |
+./spec/controllers/api/v1/language_controller_spec.rb[1:1:2] | passed | 0.00861 seconds |
+./spec/controllers/language_controller_spec.rb[1:1:1]        | passed | 0.01946 seconds |
+./spec/controllers/language_controller_spec.rb[1:2:1]        | passed | 0.01106 seconds |
+./spec/controllers/language_controller_spec.rb[1:2:2]        | passed | 0.01652 seconds |

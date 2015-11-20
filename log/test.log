@@ -1,0 +1,371 @@
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 25ms (Views: 14.5ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 22ms (Views: 10.3ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 21ms (Views: 11.8ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 19ms (Views: 10.0ms)
+Processing by LanguageController#search as HTML
+Completed 400 Bad Request in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 27ms (Views: 14.8ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+Completed 400 Bad Request in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 24ms (Views: 13.5ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 28ms (Views: 13.8ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 2.1ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 12.4ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 2ms (Views: 0.8ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 25ms (Views: 12.0ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 2ms (Views: 0.9ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 27ms (Views: 16.3ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 2ms (Views: 0.8ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.7ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 23ms (Views: 11.5ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+Completed 400 Bad Request in 1ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 23ms (Views: 13.3ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 2ms (Views: 0.9ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+Completed 400 Bad Request in 1ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 26ms (Views: 14.7ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+Url not found.
+Redirected to http://test.host/
+Completed 302 Found in 22150ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 19ms (Views: 9.7ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.1ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 24ms (Views: 14.1ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 2ms (Views: 0.8ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 23ms (Views: 13.0ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.2ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Parameters: {"auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 24ms (Views: 13.1ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 3ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 2ms (Views: 0.9ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 2ms (Views: 0.9ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 1ms (Views: 1.0ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 25ms (Views: 14.7ms)
+Processing by LanguageController#index as HTML
+  Parameters: {"auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.3ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.3ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.0ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+Processing by LanguageController#index as HTML
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+  Rendered language/index.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 25ms (Views: 16.4ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.2ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 0.9ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 24ms (Views: 12.6ms)
+Processing by LanguageController#index as HTML
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 2ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.1ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.0ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Processing by Api::V1::LanguageController#index as HTML
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+Completed 500 Internal Server Error in 2889ms
+Processing by Api::V1::LanguageController#index as HTML
+Filter chain halted as :authenticate_user! rendered or redirected
+Completed 401 Unauthorized in 1ms (Views: 0.3ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 7ms (Views: 7.0ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 2ms (Views: 0.9ms)
+Processing by Api::V1::LanguageController#index as HTML
+Filter chain halted as :authenticate_user! rendered or redirected
+Completed 401 Unauthorized in 0ms (Views: 0.2ms)
+Processing by Api::V1::LanguageController#index as HTML
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+Completed 500 Internal Server Error in 1671ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 8ms (Views: 7.2ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 24ms (Views: 11.4ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+Processing by Api::V1::LanguageController#index as HTML
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+Completed 500 Internal Server Error in 2488ms
+Processing by Api::V1::LanguageController#index as HTML
+Filter chain halted as :authenticate_user! rendered or redirected
+Completed 401 Unauthorized in 1ms (Views: 0.3ms)
+Processing by Api::V1::LanguageController#index as HTML
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+Completed 500 Internal Server Error in 57ms
+Processing by Api::V1::LanguageController#index as HTML
+Filter chain halted as :authenticate_user! rendered or redirected
+Completed 401 Unauthorized in 0ms (Views: 0.2ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.5ms)
+Completed 200 OK in 9ms (Views: 7.8ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 27ms (Views: 17.0ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+Processing by Api::V1::LanguageController#index as HTML
+Filter chain halted as :authenticate_user! rendered or redirected
+Completed 401 Unauthorized in 0ms (Views: 0.2ms)
+Processing by Api::V1::LanguageController#index as HTML
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+Completed 500 Internal Server Error in 11ms
+Processing by Api::V1::LanguageController#index as JSON
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+  Rendered api/v1/language/index.json.jbuilder (0.3ms)
+Completed 200 OK in 29ms (Views: 16.6ms)
+Processing by Api::V1::LanguageController#index as JSON
+Filter chain halted as :authenticate_user! rendered or redirected
+Completed 401 Unauthorized in 1ms (Views: 0.3ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 7ms (Views: 6.8ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 1ms
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+Processing by Api::V1::LanguageController#index as JSON
+Filter chain halted as :authenticate_user! rendered or redirected
+Completed 401 Unauthorized in 1ms (Views: 0.3ms)
+Processing by Api::V1::LanguageController#index as JSON
+  Parameters: {"search"=>{"query"=>""}, "auth_token"=>"ed37a087ad6e87f680103acd6c6c464564929141e4dd057dd6fd531c49987d1be0943f8b"}
+  Rendered api/v1/language/index.json.jbuilder (0.5ms)
+Completed 200 OK in 32ms (Views: 18.0ms)
+Processing by LanguageController#index as HTML
+  Rendered language/index.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 15ms (Views: 15.1ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{"query"=>""}}
+  Rendered language/index.html.haml within layouts/application (1.3ms)
+Completed 200 OK in 7ms (Views: 4.2ms)
+Processing by LanguageController#search as HTML
+  Parameters: {"search"=>{}}
+param is missing or the value is empty: search
+Redirected to http://test.host/
+Completed 302 Found in 7ms
